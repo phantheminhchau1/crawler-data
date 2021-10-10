@@ -65,3 +65,4 @@ for i in url:
     data = open("data.csv", "a", encoding="utf-8")
     data.writelines(ten +","+ gia + "," + thuonghieu +","+ daban +","+ sao + "," + sao1 +"," + danhgia +"\n")
     data.close()
+    
